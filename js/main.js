@@ -8,10 +8,10 @@ var nilai_toefl     = document.getElementById('nilaiToefl');
 var hasil_beasiswa  = document.getElementById('hasilBeasiswa');
 var nilai_beasiswa  = document.getElementById('nilaiBeasiswa');
 
-var nilai_ujian_tertulis1 = parseInt(prompt("Masukan Nilai UTS : "));
-var nilai_ujian_tertulis2 = parseInt(prompt("Masukan Nilai UAS : "));
-var nilai_ujian_praktek   = parseInt(prompt("Masukan Nilai Ujian Praktek : "));
-var scoreToefl            = parseInt(prompt("Masukan Score TOEFL : "));
+var nilai_ujian_tertulis1 = parseInt(prompt("Masukkan Nilai Ujian Tertulis 1 : "));
+var nilai_ujian_tertulis2 = parseInt(prompt("Masukkan Nilai Ujian Tertulis 2 : "));
+var nilai_ujian_praktek   = parseInt(prompt("Masukkan Nilai Ujian Praktek : "));
+var scoreToefl            = parseInt(prompt("Masukkan Score TOEFL : "));
 var nilaiToefl            = 0;
 var hasilBeasiswa         = undefined;
 
