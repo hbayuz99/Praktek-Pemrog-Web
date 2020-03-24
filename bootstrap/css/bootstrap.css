@@ -1,24 +1,14 @@
 .header{
   padding-top: 5px;
-  height: 55px;
+  height: 65px;
 }
 
 .teksheader{
-  font-family: 'Montserrat', serif;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 600;
-  color: #ffffff; 
-  font-size: 20pt;
-}
-
-.span
-{
-    padding: 10px 20px 10px 20px;
-}
-
-.hr
-{
-    border-width: 3px;
-    margin-top: 06px;
+  color: #f0eaea; 
+  font-size: 25pt;
 }
 
 .fotoprofile{
